@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">LocalMart</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="don_t_have_account_sign_up">Don\'t have account? Sign Up</string>
+    <string name="login">Login</string>
+    <string name="my_profile">Profile</string>
+    <string name="sell">Sell</string>
+    <string name="logout">Logout</string>
+    <string name="about">About</string>
+    <string name="share">share</string>
+    <string name="localmart">Welcome to LocalMart</string>"
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close navigation Drawer</string>
+    <string name="coming_soon">Coming Soon..</string>
+    <string name="home">Home</string>
+    <string name="product_name">Product name</string>
+    <string name="feedback">Feedback</string>
+    <string name="Welcome_to_localmart">Welcome to LocalMart</string>
+    <string name="intro">A platform to buy and sell goods.</string>
+    <string name="our_team">Our Team</string>
+    <string name="a">"Name    :    ABC Title          \nROLL       :    ok \nBranch  :    CSE \n"</string>
+    <string name="c">"Name    :    XYZ Title          \nROLL       :    ok123 \nBranch  :    CSE"</string>
+    <string name="k">"Name    :    Random Title       \nROLL       :    abc \nBranch  :    CSE"</string>
+    <string name="forgot_pass">Forgot password? Reset</string>
+    <string name="go_back">Go Back</string>
+    <string name="reset_pass">Reset Password</string>
+</resources>
